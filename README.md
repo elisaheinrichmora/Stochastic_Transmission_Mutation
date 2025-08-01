@@ -13,7 +13,7 @@ This repository contains all code, data, and results associated with the paper *
 - **Simulations/**  
   Includes all simulation outputs for each distribution studied, along with the corresponding feasible parameter ranges.
 
-## 📄 Key Files
+## Key Files
 
 - **Appendix_Empirical_Analysis.ipynb**  
   Jupyter notebook containing code for the exploratory analysis of the Monroe et al. dataset used in the appendix.
