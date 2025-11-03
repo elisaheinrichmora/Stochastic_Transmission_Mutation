@@ -1,4 +1,4 @@
-# Repository for "Evolution under Fluctuating Transmission Regimes: Mutation Modification"  
+# Repository for "Evolution under Stochastic Transmission: Mutation-Rate Modifiers"  
 **Authors**: Heinrich-Mora and Feldman (2025)
 
 This repository contains all code, data, and results associated with the paper *"Evolution under Fluctuating Transmission Regimes: Mutation Modification"*. The repository is organized into the following components:
